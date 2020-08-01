@@ -1,0 +1,30 @@
+ /* Justin Palathunkal */
+ /* Course Code:TEJ20 */
+ /* Date: 1/26/2018 */
+ /* This is Justin Palathunkal's exam */
+
+html {
+ padding: 100px 20% 100px 20%;
+}
+
+body {
+ background-color: yellow;
+ margin: 0;
+}
+
+p {
+ color: blue;
+ font-size: 14px;
+}
+
+img {
+ text-align: center; 
+}
+
+.subjects {
+ color: red;
+ margin: auto;
+ border: solid 3px;
+ border-color: green;
+}
+

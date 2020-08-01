@@ -1,0 +1,90 @@
+body {
+ background-color: lightgreen;
+ margin: 20x;
+ padding: 60px;
+}
+
+p {
+  color: darkcyan;
+ background-color: lightcyan;
+ font-family: 'Oswald', sans-serif;
+ font-size: 28px;
+ text-align: center
+}
+
+h1 {
+ font-family: 'Oswald', sans-serif;
+ position: center;
+ font-size: 75px;
+ text-align: center;
+ background-color: lightcyan;
+ color: darkcyan;   
+}
+
+h2 {
+ font-family: 'Oswald', sans-serif;
+ font-size: 60px;
+ background-color: lightcyan;
+ text-align: center;
+ color: darkcyan;
+ 
+}
+
+h3 {
+  font-size: 35px;
+  background-color: lightcyan;
+  color: darkcyan;
+  text-align: center;
+}
+
+li {
+ font-family: 'Oswald', sans-serif;
+  font-size: 35px;
+  text-align: center;
+  background-color: lightcyan;
+ color: darkcyan;
+}
+
+.grid {
+  font-family: 'Oswald', sans-serif;
+  width: 1000x;
+  height: 1800px;
+  display: grid;
+  grid-template-columns:40% 10% 30%;
+  grid-template-rows:30% 30% 20;
+  background-color: lightgreen;
+}
+
+.main img {
+text-align: center;
+width: 700px;
+background-color: lightgreen; 
+}
+
+.box {
+  background-color: white;
+  color: black;
+  border-radius: 5px;
+  background-color: lightgreen;
+}
+
+img {
+  height:500px;
+  width: 700px;
+  text-align: center;
+ }
+
+hr {
+  height: 0px;
+  color: lightcyan;
+}
+
+.Causes {
+  text-align: center;
+  font-size: 30px;
+}
+
+.introduction {
+  background-color: lightcyan;
+  color: darkcyan;
+}

@@ -1,0 +1,92 @@
+body {
+ background-color: lightgreen;
+ margin: 20x;
+ padding: 40px;
+}
+
+p {
+  color: grey;
+ background-color: lavender;
+ font-family: 'Oswald', sans-serif;
+ font-size: 28px;
+ text-align: center
+}
+
+h1 {
+ font-family: 'Oswald', sans-serif;
+ position: center;
+ font-size: 70px;
+ text-align: center;
+ background-color: lavender;
+ color: gray;   
+}
+
+h2 {
+ font-family: 'Oswald', sans-serif;
+ font-size: 44px;
+ background-color: lavender;
+ text-align: center;
+ color: grey;
+ 
+}
+
+h3 {
+  font-size: 35px;
+  background-color: lavender;
+  color: grey;
+  text-align: center;
+}
+
+li {
+ font-family: 'Oswald', sans-serif;
+  font-size: 35px;
+  text-align: center;
+  background-color: lightcyan;
+ color: grey;
+}
+
+.grid {
+  font-family: 'Oswald', sans-serif;
+  width: 1000x;
+  height: 2000px;
+  display: grid;
+  grid-template-columns:37% 10% 30%;
+  grid-template-rows:30% 30% 20;
+  background-color: lightgreen;
+}
+
+.main img {
+text-align: center;
+width: 700px;
+background-color: lightgreen; 
+}
+
+.box {
+  background-color: white;
+  color: black;
+  border-radius: 5px;
+  background-color: lightgreen;
+}
+
+img {
+  height:500px;
+  width: 700px;
+  text-align: center;
+  padding: 20px;
+ }
+
+hr {
+  height: 0px;
+  color: lightcyan;
+}
+
+.Causes {
+  text-align: center;
+  font-size: 30px;
+}
+
+a {
+  font-size: 25px;
+background-color: lavender;
+font-family: 'Oswald', sans-serif;
+}
